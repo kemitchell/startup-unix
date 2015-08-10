@@ -19,3 +19,18 @@ To its credit, startup legal already had its [BSD](https://en.wikipedia.org/wiki
 Anyone with the Internet can get the latest Orrick Startup Distribution or Cooley Startup Distribution for free. It's easier to read up on those forms and spot deviations from them. It's easier to train up as a startup lawyer. I'm not aware of any [particularly righteous beards](http://www.usenix.org.uk/content/unix_beards.html) at either firm, but those responsible are owed enduring respect.
 
 But each of the publicly released form sets is essentially read-only, at least from the outside. Orrick begat Startup Library begat [Clerky](http://clerky.com) begat a bevy of startups. To land a patch upstream to the law firm, you go to work for the law firm and propose it to the forms committee or the partner or the paralegal who tends the templates. Or you start out at the firm and leave to start a company, like the Clerky guys, to push a fork of the canonical set. Whatever original changes you make, you have to rebase on every new release from the firm. Either that, do all your own work, or offer old forms.
+
+## A Future
+
+The industry awaits  a startup implementation that:
+1. offers compatibility with modern process infrastructure, from document assembly to electronic signature, rather than with a specific law firm or department
+2. releases in a transparent, predictable, and verifiable manner, for free, on the Internet
+3. welcomes and acts on feedback from downstream users of all kinds
+
+The Unix and startup stories diverge here. Startup legal doesn't require cleanroom rewriting to avoid a licensing issue. It doesn't need a port to a newer, cheaper, more universal platform.
+
+Fundamentally, it's about process. A firm can standardize on documents that grow out of and mirror its own collaborative infrastructure and clientele. An accelerator can do the same. Subsequent improvements likely optimize on validated assumptions about that infrastructure and clientele.
+
+The value of that optimization is real, but specializes the product to the organization. Underlying assumptions may not hold elsewhere, and may in fact work against inter-firm, inter-company adoption—real standardization. No firm is going to adopt work branded with the name of another. No firm is going to relinquish control of its templates. No firm utilizing [HotDocs](http://hotdocs.com) is going to sit around clicking through a [ContractExpress](http://www.business-integrity.com/) to catch new "releases".
+
+I'm on it. If you're interested, drop me a line.
