@@ -16,10 +16,14 @@ The lawyers at the firm know their "flavor" of startup legal down cold. The 409A
 
 A good form set produces a legally compliant, business-ready corporation every time. That is the vast majority of its value. But that isn't to say all form sets are created equal. They are products of the institutions that make them. If a firm has particular strength in, say, tax, its startup forms may end up with more nuanced tax features. If the firm forms a lot of startups for foreign founders, its forms may better address immigration issues. If the firm has an active form revision committee, or a particularly dedicated "startup" partner, updates for changes in the law may land quicker. Each little island makes beads and baskets in its own special way.
 
-## The Law First Standard Distribution
+## The Law Firm Standard Distribution
 
-It's not quite as bad as that. Startup legal has had its BSD moment.
+It's not quite as bad as that. Fortunately, startup legal has had its BSD moment.
 
 A number of very fine law firms now release snapshots of at least part of their in-house forms on the Internet. As far as I know, Orrick blazed the trail, followed eventually by Cooley, Gunderson, Perkins Coie, and probably others.
 
-Anyone can download the latest Orrick/Cooley/Gunderson/PK Distribution. It may not be easy to use, complete, or particularly up-to-date. But the industry is richer for having the information. It's good education for budding businesspeople and lawyers. If you're familiar with the forms---many startup lawyers can "recognize" a law firm in the style of a company's founding docs---it can save you time reviewing for meaningful changes.
+Anyone can download the latest Orrick/Cooley/Gunderson/PK Distribution. It may not be easy to use, complete, or particularly up-to-date. But the industry is better off for the information. It's good education for budding businesspeople and lawyers. If you're familiar with the forms---many startup lawyers can "recognize" a law firm in the style of a company's founding docs---it can save you time reviewing for meaningful changes.
+
+And they've prompted some meaningful innovation. The Orrick set, for example, begat Clerky, which in turn begat a bevy of startups. Gunderson's release of its documents on Docracy was a boon to Docracy.
+
+To land a patch upstream to the law firm, you go to work for the law firm and take it up to the committee or partner who tends the templates. Or you start out at the firm and leave to start a company, like the Clerky guys, and hock a fork of the canonical set. Whatever original changes you make, you have to rebase on every new release from the firm. Either that, do all your own work, or offer old forms.
