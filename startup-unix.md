@@ -1,43 +1,73 @@
+Startup legal structure is stuck in the Unix era, waiting for its "open" moment. We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
+
+1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions and relationships.
+2. Favor no particular vendor, technology, lawyer, or law firm for preparation, handling, or signature.
+3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
+4. Welcome and incorporate contributions from companies, attorneys, and other professionals, with startup companies' interests in mind.
+
+Why?
+
 # Startup Legal is Unix All Over Again
 
-The legal structure of Silicon Valley-style startups is Unix all over again.
+Every startup company has to run boring "business applications". Employees want stock options with standard tax benefits. Investors want a capital structure they can model. The guy in the tie at the bank won't give you a bank account without the right magic paper. Boring.
 
-There are many flavors of startup legal docs. The major Silicon Valley law firms and some accelerators peddle house form sets. Just as you'd get [AIX](http://www.ibm.com/aix/) from IBM or [Solaris](http://oracle.com/solaris) from Sun, clients of, say, [Fenwick & West](http://fenwick.com) end up Fenwick-flavored startups, [Y Combinator](http://ycombinator.com) companies form as YC-flavored startups, and so on.
+There are probably dozens of prepackaged legal form sets for starting and "booting up" a Silicon Valley style startup company. All of them are compatible with these and other basic "business applications". The set you're running probably reflects who is selling you other kinds of products and services.
 
-Lawyers who deal with startups recognize popular variants, but stick to one for their own work. The contours of that set—down to section numbers and defined terms—burn into memory. I'll have [`sudo apt-get install -y`](https://wiki.debian.org/Apt) burned in muscle memory 'til the day I die, just as the terms of the [Latham](http://lw.com)ite startup forms I trained on will always be fresh in mind. Sure, I can handle a [FreeBSD](http://freebsd.org) deployment or a [WSGR](http://wsgr.com)-founded company, but I'll spend a little time reading up and feeling my way around at the start.
+It's like that ancient program that Accounting ran on the mainframe in the basement of your old job. AIX? Solaris? Who cares?
 
-Familiarity aside, startup flavors still aren't "all the same". They differ meaningfully in style, organization, and features. They [reflect the organizations that create them](https://en.wikipedia.org/wiki/Conway%27s_law), which differ in structure, structure, and habit. Updates appear with varying frequency from maintainers with different priorities, revised and released in different ways. Improvements crop up and spread, as with [DTrace](http://dtrace.org), so with [forum selection bylaws](http://www.delawarelitigation.com/2014/09/articles/chancery-court-updates/chancery-upholds-forum-selection-clause-outside-delaware/). Vulnerabilities, like the infamous [Benchmark gap](http://www.goodwinprocter.com/~/media/Files/Publications/Attorney%20Articles/2002/The_Benchmark_Case_and_the_Limits_of_Preferred_Stock_Protections.pdf), get plugged.
+Vendors care. They probably sold Accounting the mainframe, and the mainframe almost certainly runs "their" Unix. The army of consultants and technicians and training people in orbit around the vendor all know that Unix like the backs of their hands, in every gruesome detail and vaunted selling point. It isn't so much that customers buy Such-and-Such Unix and try to think up things to run on it. They know what they need, compare a few ways to get it, and buy into an "ecosystem" of follow-on companies, experts, and products as much as anything else.
 
-Yet the primary importance of compatibility unites the variations. The value of the banal, mission-critical legacy applications every startup has to run always overshadows any flavor-specific benefits, even when those benefits include lots less in legal and management time. If you've seen the word _whereas_ since starting your company, know you're running legacy legal. But you probably won't tank because you couldn't issue options as new hires expect, make the reps investors want, or sell preferred without going to jail.
+When you go to a startup-capable law firm and get yourself a corporation, you end up with the same basic Delaware corporation as everyone else. It's commodity legal hardware. But your Delaware corporation comes preloaded with the law firm's proprietary operating system, in the form of articles of incorporation, bylaws, basic agreements, and other documents. Those docs pick the ground rules and set the board for the business game that follows.
 
-The startup company as we know it is a solution to that system of constraints, a well-worn path through the thicket of law and Bay Area expectations. As far as I know, there has never been a definitive general statement of that solution—a [POSIX](https://en.wikipedia.org/wiki/POSIX), so to speak, of the Silicon Valley startup. But rare is the hacker who's read more than specific sections of POSIX in any event, and rare is the lawyer who's read the underlying case law and statutes. If you've gone that deep, chances are you hack operating systems or startup forms.
+The lawyers at the firm know their "flavor" of startup legal down cold. The 409A valuation firms they refer know where to look for the parts they need. The form financing documents they have ready to go are built to run on them. There may even be some document preparation automation going on back office.
 
-## The Law Firm Startup Distribution
+A good form set produces a legally compliant, business-ready corporation every time. That is the vast majority of its value. But that isn't to say all form sets are created equal. They reflect the institutions that make them.
 
-To its credit, startup legal already had its [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) moment. A number of very fine law firms release snapshots of their in-house forms on the Web. As far as I know, [Orrick](https://www.orrick.com/practices/emerging-companies/startup-forms/) blazed that trail. [Cooley](https://www.cooleygo.com/), [Gunderson](http://gunder.com), and [Perkins Coie](http://www.startuppercolator.com/) followed.
+If a firm has particular strength in, say, tax, its startup forms may develop more nuanced tax features. If the firm forms a lot of startups for foreign founders, its forms may better address immigration needs. If the firm has an active form revision committee, or a particularly dedicated "startup" partner, updates for changes in the law may land quicker.
 
-Anyone with the Internet can get the latest Orrick/Cooley/Gunderson/PK Startup Distribution. It's easier to read up on those forms and spot deviations from them. It's easier to train up as a startup lawyer. I'm not aware of any [particularly righteous beards](http://www.usenix.org.uk/content/unix_beards.html) at those firms, but those responsible deserve gratitude and respect.
+Conversely, if a firm's lawyers still close documents on paper, its forms will be drafted to work with that process. If the partners like whereins and whereases, their forms will be littered with them. If the firm cannot or does not devote significant time to revision and rewriting, the forms will grow tattered with ad hoc edits, tacked-on provisos, and other tool marks. If a firm's clients are uniformly alike in some way, say they mostly come through a particular accelerator, the forms may become specialized to that kind of client.
 
-While anyone can read those forms, they are practically read-only. Orrick begat Startup Library begat [Clerky](http://clerky.com) begat a bevy of startups. To land a patch upstream to the law firm, you go to work for the law firm and take it up to the committee or partner who tends the templates. Or you start out at the firm and leave to start a company, like the Clerky guys, and hock a fork of the canonical set. Whatever original changes you make, you have to rebase on every new release from the firm. Either that, do all your own work, or offer old forms.
+# The Law Firm Standard Distribution
 
-## Open Future
+It's not quite so bad as that. Fortunately, startup legal has had its BSD moment.
 
-The industry awaits a startup implementation that:
+A number of very fine law firms now release snapshots of at least part of their in-house forms on the Internet. As far as I know, Orrick blazed the trail, followed eventually by Cooley, Gunderson, Perkins Coie, and probably others.
 
-1. maintains compatibility with all the old "mission critical" legal applications
+Anyone can download the latest Orrick/Cooley/Gunderson/PK Distribution. It may not be easy to use, complete, or up-to-date, but the community is better off for the information. It's good education for budding businesspeople. It's invaluable for up-and-coming lawyers. And if you're familiar with the forms---many startup lawyers can "recognize" a law firm in the style of a company's founding docs---it can even save you time reviewing for meaningful changes. The process of preparing the forms for publication doubtless benefited the publishing firms' lawyers and clients, too.
 
-2. runs on modern process infrastructure, from document assembly to electronic signature, rather than entrenched law firms
+And they've enabled some meaningful technology work. The Orrick set, for example, begat Clerky, which in turn begat a bevy of startups. Gunderson's release of its documents on Docracy was a boon. Legal technology startups and open-source projects love to demo with startup documents.
 
-3. releases in a transparent, predictable, and verifiable manner, for free, on the Internet
+# Over the Wall
 
-4. welcomes and acts on feedback, including "bug reports", from downstream users of all kinds
+The Law Firm Standard Distributions are fundamentally read-only. Each firm has its own internal revision process, and those processes are time-intensive and expensive. Their output alone is tremendously valuable, but there's no clear channel for outside feedback or interaction, and no good incentive for it. To land a patch upstream to the law firm, you go to work for the law firm.
 
-The Unix and startup stories diverge here. Startup legal doesn't require cleanroom rewriting to avoid a licensing issue. It doesn't need a port to a newer, cheaper, more universal platform. The community awaits an implementation that belongs to the community as a whole, rather than to any particular player, that is open, general, and adaptable enough for wide application.
+Of course, you're free to "fork" your own variant of a publicly released set. What happens next? Either you revisit each of your changes every time the firm makes a new release, or you give up and go your own way. The proliferation of "house" form sets at law firms may come down to lawyers carrying their old firm's set with them as they changed law firms. Even within firms that have standard form sets, lawyers are known to keep templates with pet changes for their own work.
 
-Fundamentally, it's about process. A firm can standardize on documents that grow out of and mirror its own collaborative infrastructure and clientele. So can an accelerator. The tendency within such an environment is to optimize. The value of that optimization is real, but specializes the product to the organization. Underlying assumptions may not hold elsewhere, and may in fact work against inter-firm, inter-company adoption. In other words, against standardization.
+This kind of diversification doesn't effectively distribute meaningful improvements to startups. It doesn't rapidly distribute fixes to problems, like the infamous Benchmark gap, either. It definitely doesn't reduce the burden on those who review startup legal documents. It produces a lot of variation, but not necessarily much diversity, and doesn't do anything to focus effort.
 
-The only precedent for that kind of standardization I'm aware of comes from industry groups. Finance has [an industry group that publishes standard forms](http://www.isda.org/). Insurance has [an industry group that publishes standard forms](http://iso.com). Even venture capitalists have [an industry group that publishes forms](http://nvca.org), though the law firms don't necessarily play along. 
+# Open Process
 
-There isn't a group representing the interests of startup companies. There ought to be. In its absence, what we have is competing, specialized implementations designed to lure new companies to one or another vendor of follow-on services, accountancy style. The answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startups, for startups. When the construction industry got tired of the standard forms from the [architects' industry group](http://aia.org), they [started their own initiative](http://consensusdocs.org). Startups can do the same.
+The startup community doesn't need another set of free startup legal forms to download. It needs a process that focuses the disparate efforts of legal and business allies into a community owned, vendor neutral legal operating system for startups. We don't need another Unix, we need a Unix that runs on anyone's hardware that no one owns and anyone can improve. We need a 386BSD of startup legal.
 
-I'm on it. If you're interested, [drop me a line](mailto:kyle@kemitchell.com).
+Good news: there's precedent. In finance, the International Swaps and Derivatives Association (ISDA) publishes industry-standard derivatives documentation, and the Loan Trading and Syndication Association (LSTA) and Loan Market Association (LMA) publish debt syndication agreements. The Insurance Services Office (ISO) publishes standard form policies that enable meaningful cross-firm actuarial research and analysis. Even venture capitalists have the National Venture Capital Association (NVCA), which published standard venture capital financing documents. In the construction industry, associations of contractors and professionals formed ConsensusDocs as an alternative to the established contract forms published by the American Institute of Architects (AIA), which they thought unfairly privileged architects. These and countless other industry groups have come together to pool effort and encourage competition among service providers.
+
+There isn't any group turning out startup legal documents in the interests of startup companies. There ought to be. In its absence, the community endures a dizzying array of competing, specialized legal sets that function to lure and lock new companies to one or another service provider. The answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startup people, for startup people.
+
+# What We Have
+
+The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. A few themes have come up over and over again in that work, and led to a few practical choices:
+
+1. Contributors have stressed that documents should be easy to read and improve. That means documents should be consistently organized and phrased, as much as possible, in everyday English.
+2. Contributors believe software development is way ahead of legal on tools for creating documents collaboratively, rather than competitively. The contributors are developing Ironclad as plain text files, using Git, GitHub, and open source software to create copies in other formats, as for Microsoft Word.
+3. Contributors believe work on Ironsides will be most valuable if it's utterly free of copyright-related uncertainty. That means making it available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), a professionally drafted public domain dedication with a fallback permissive license grant.
+4. Contributors believe every possible barrier between the project and valuable feedback should be removed. That means administering processes for making proposals in the form of traditional legal markups, called "redlines", by e-mail or even postal mail, and supporting anonymous contributions.
+
+# Who's Involved
+
+Ironsides' beginnings (and cool name) are the work of two individuals.
+
+Jason Boehmig is founder and CEO of [Ironclad, Inc.](https://ironclad.ai), a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and spearheaded the public release of the free [Series Seed equity financing documents](https://github.com/seriesseed/equity).
+
+Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own [law practice](https://kemitchell.com), Kyle also practiced business law in Silicon Valley.
+
+Kyle maintains and contributes to _Ironsides_ with the generous support of Ironclad.
