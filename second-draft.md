@@ -50,7 +50,7 @@ There isn't any group turning out startup legal documents in the interests of st
 
 We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
 
-1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions.
+1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions and relationships.
 2. Favor no particular vendor, technology, or mode of legal practice for preparation or signature.
 3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
 4. Welcome and incorporate contributions from companies, attorneys, and other professionals that serve startup companies' interests.
@@ -62,3 +62,10 @@ The purpose of Ironsides is to learn from and serve the startup community, not t
 3. Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
 4. All work thus far is made available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
 5. Contributors have drafted processes for receiving proposals in the form of "redlines" (traditional legal markups) by e-mail and even postal mail, including anonymous proposals.
+
+Ironsides' beginnings (and cool name) are the work of two individuals:
+
+1. Jason Boehmig is founder and CEO of Ironclad, Inc., a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and spearheaded the public release of the free Series Seed financing documents.
+2. Kyle Mitchell is a business lawyer and open-source programmer. In a past life, he built web applications and instructional multimedia.
+
+Kyle maintains and contributes to _Ironsides_ with the generous support of Ironclad.
