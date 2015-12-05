@@ -58,14 +58,15 @@ We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), 
 The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has sounded in a few strong themes:
 
 1. Contributors have stressed that documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
-2. The documents are developed as plain text computer files, using open source software to create copies in other formats, like Microsoft Word.
+2. The documents are developed as plain text files, using open source software to create copies in other formats, as for Microsoft Word.
 3. Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
 4. All work thus far is made available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
 5. Contributors have drafted processes for receiving proposals in the form of "redlines" (traditional legal markups) by e-mail and even postal mail, including anonymous proposals.
 
 Ironsides' beginnings (and cool name) are the work of two individuals:
 
-1. Jason Boehmig is founder and CEO of Ironclad, Inc., a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and spearheaded the public release of the free Series Seed financing documents.
-2. Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own law practice, Kyle also practiced business law in Silicon Valley, and before that built web applications and instructional multimedia for a decade in Austin, Texas and Moscow, Russia.
+Jason Boehmig is founder and CEO of Ironclad, Inc., a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and spearheaded the public release of the free Series Seed financing documents.
+
+Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own law practice, Kyle also practiced business law in Silicon Valley, and before that built web applications and instructional multimedia for a decade in Austin, Texas and Moscow, Russia.
 
 Kyle maintains and contributes to _Ironsides_ with the generous support of Ironclad.
