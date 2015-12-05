@@ -15,7 +15,7 @@ There are probably dozens of prepackaged legal form sets for starting and "booti
 
 It's like that ancient program that Accounting ran on the mainframe in the basement of your old job. AIX? Solaris? Who cares?
 
-Vendors care. They probably sold Accounting the mainframe, and the mainframe almost certainly runs "their" Unix. The army of consultants and technicians and training people in orbit around the vendor all know that Unix like the backs of their hands, in every gruesome detail and vaunted selling point. It isn't so much that customers buy Such-and-Such Unix and try to think up things to run on it. They know what they need, compare a few ways to get it, and buy a solution as much for the follow-on companies, experts, and products as any intrinsic feature.
+Vendors care. They probably sold Accounting the mainframe, and the mainframe almost certainly runs "their" Unix. The army of consultants and technicians and training people in orbit around the vendor all know that Unix like the backs of their hands, in every gruesome detail and vaunted selling point. It isn't so much that customers buy Such-and-Such Unix and try to think up things to run on it. They know what they need, compare a few ways to get it, and buy into an "ecosystem" of follow-on companies, experts, and products as much as anything else.
 
 When you go to a startup-capable law firm and get yourself a corporation, you end up with the same basic Delaware corporation as everyone else. It's commodity legal hardware. But your Delaware corporation comes preloaded with the law firm's operating system, in the form of articles of incorporation, bylaws, basic agreements, and other documents. Those docs pick the ground rules and set the board for the business game that follows.
 
