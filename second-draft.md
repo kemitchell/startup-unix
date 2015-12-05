@@ -1,7 +1,7 @@
 Startup legal structure is stuck in the Unix era, waiting for its "open" moment. We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
 
 1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions and relationships.
-2. Favor no particular vendor, technology, or mode of legal practice for preparation or signature.
+2. Favor no particular vendor, technology, lawyer, or law firm for preparation, handling, or signature.
 3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
 4. Welcome and incorporate contributions from companies, attorneys, and other professionals, with startup companies' interests in mind.
 
