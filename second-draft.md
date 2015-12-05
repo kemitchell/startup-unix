@@ -14,7 +14,11 @@ When you go to a startup-capable law firm and get yourself a corporation, you en
 
 The lawyers at the firm know their "flavor" of startup legal down cold. The 409A valuation firms they refer know where to look for the parts they need. The form financing documents they have ready to go are built to run on them. There may even be some document preparation automation going on back office.
 
-A good form set produces a legally compliant, business-ready corporation every time. That is the vast majority of its value. But that isn't to say all form sets are created equal. They are products of the institutions that make them. If a firm has particular strength in, say, tax, its startup forms may end up with more nuanced tax features. If the firm forms a lot of startups for foreign founders, its forms may better address immigration issues. If the firm has an active form revision committee, or a particularly dedicated "startup" partner, updates for changes in the law may land quicker. Each little island makes beads and baskets in its own special way.
+A good form set produces a legally compliant, business-ready corporation every time. That is the vast majority of its value. But that isn't to say all form sets are created equal. They reflect the institutions that make them.
+
+If a firm has particular strength in, say, tax, its startup forms may develop more nuanced tax features. If the firm forms a lot of startups for foreign founders, its forms may better address immigration needs. If the firm has an active form revision committee, or a particularly dedicated "startup" partner, updates for changes in the law may land quicker.
+
+Conversely, if a firm's lawyers still close documents on paper, its forms will be drafted to work with that process. If the partners like _wherein_s and _whereas_es, their forms will be littered with them. If the firm cannot or does not devote significant time to revision and rewriting, the forms will grow tattered with ad hoc edits, tacked-on provisos, and other tool marks. If a firm's clients are uniformly alike in some way---say they mostly come through a particular accelerator---the forms may become specialized to that kind of client.
 
 ## The Law Firm Standard Distribution
 
@@ -30,4 +34,23 @@ And they've seeded some meaningful innovation. The Orrick set, for example, bega
 
 The Law Firm Standard Distributions are fundamentally read-only. Each firm has its own internal revision process, and those processes are time-intensive and expensive. Their output alone is tremendously valuable, but there's no clear channel for outside feedback or interaction, and no good incentive for it to begin with. To land a patch upstream to the law firm, you go to work for the law firm and take it up to the committee or partner who tends the templates.
 
-Of course, you're free to "fork" your own variant of a publicly released set. What happens next? Either you revisit each of your changes every time the firm makes a new release, or you give up and go you own way. The proliferation of "house" form sets at law firms may come right down to lawyers carrying their old "house" set with them as they changed law firms.
+Of course, you're free to "fork" your own variant of a publicly released set. What happens next? Either you revisit each of your changes every time the firm makes a new release, or you give up and go your own way. The proliferation of "house" form sets at law firms may come down to lawyers carrying their old "house" set with them as they changed law firms. Even within firms that have standard form sets, lawyers are known to keep private variants for their own work.
+
+This kind of diversification doesn't effectively distribute meaningful improvements to startups. It doesn't rapidly distribute fixes to problems, either. It definitely doesn't reduce the burden on those who review startup legal documents, such as for investor due diligence. It basically functions to keep effort as little consolidated as possible.
+
+## "Open" is a Continuous Process
+
+The startup community is waiting for a form set that:
+
+1. runs all the old boring "business applications"
+2. runs on modern process infrastructure, from document assembly to electronic signature, rather than law firm internal processes
+3. releases in a transparent, predictable, and verifiable manner, for free, on the Internet
+4. welcomes and acts on feedback, including "bug reports", from downstream users of all kinds
+
+The Unix and startup stories diverge here. Startup legal doesn't require cleanroom rewriting to avoid a licensing issue. It doesn't need a port to a newer, cheaper, more universal platform. The community awaits an implementation that belongs to the community as a whole, rather than to any particular player, that is open, general, and adaptable enough for wide application.
+
+Fundamentally, it's about process. A firm can standardize on documents that grow out of and mirror its own collaborative infrastructure and clientele. So can an accelerator. The tendency within such an environment is to optimize. The value of that optimization is real, but specializes the product to the organization. Underlying assumptions may not hold elsewhere, and may in fact work against inter-firm, inter-company adoption. In other words, against standardization.
+
+The only precedent for that kind of standardization I'm aware of comes from industry groups. Finance has [an industry group that publishes standard forms](http://www.isda.org/). Insurance has [an industry group that publishes standard forms](http://iso.com). Even venture capitalists have [an industry group that publishes forms](http://nvca.org), though the law firms don't necessarily play along. 
+
+There isn't a group representing the interests of startup companies. There ought to be. In its absence, what we have is competing, specialized implementations designed to lure new companies to one or another vendor of follow-on services, accountancy style. The answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startups, for startups. When the construction industry got tired of the standard forms from the [architects' industry group](http://aia.org), they [started their own initiative](http://consensusdocs.org). Startups can do the same.
