@@ -53,7 +53,7 @@ We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), 
 1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions and relationships.
 2. Favor no particular vendor, technology, or mode of legal practice for preparation or signature.
 3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
-4. Welcome and incorporate contributions from companies, attorneys, and other professionals that serve startup companies' interests.
+4. Welcome and incorporate contributions from companies, attorneys, and other professionals, with startup companies' interests in mind.
 
 The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has head in a few interesting directions:
 
