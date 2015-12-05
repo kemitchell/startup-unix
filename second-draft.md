@@ -2,7 +2,7 @@
 
 Startup legal structure is stuck in the Unix era, waiting for its "open" moment.
 
-Every startup company has to run boring "business applications". Employees want stock options with standard tax benefits. Investors want a structure they can model. The guy in the tie at the bank won't give you a bank account without the right magic paper. Boring.
+Every startup company has to run boring "business applications". Employees want stock options with standard tax benefits. Investors want a capital structure they can model. The guy in the tie at the bank won't give you a bank account without the right magic paper. Boring.
 
 There are probably dozens of prepackaged legal form sets for starting and "booting up" a Silicon Valley style startup company. All of them are compatible with these and other basic, boring "business applications", with a little headroom for customization. The set you're running probably reflects who is selling you other kinds of products and services.
 
@@ -38,19 +38,23 @@ Of course, you're free to "fork" your own variant of a publicly released set. Wh
 
 This kind of diversification doesn't effectively distribute meaningful improvements to startups. It doesn't rapidly distribute fixes to problems, either. It definitely doesn't reduce the burden on those who review startup legal documents, such as for investor due diligence. It basically functions to keep effort as little consolidated as possible.
 
-## "Open" is a Continuous Process
+## Open Process
 
-The startup community is waiting for a form set that:
+The startup community doesn't need another set of free startup legal forms to download. It needs a process that focuses the disparate efforts of legal and business allies into a community owned, vendor neutral legal operating system for startups. We don't need another Unix, we need a Unix that runs on anyone's hardware that no one owns and anyone can improve. We need a 386BSD of startup legal.
 
-1. runs all the old boring "business applications"
-2. runs on modern process infrastructure, from document assembly to electronic signature, rather than law firm internal processes
-3. releases in a transparent, predictable, and verifiable manner, for free, on the Internet
-4. welcomes and acts on feedback, including "bug reports", from downstream users of all kinds
+Good news: there's precedent. In finance, the International Swaps and Derivatives Association (ISDA) publishes industry-standard derivatives documentation, and the Loan Trading and Syndication Association (LSTA) and Loan Market Association (LMA) publish debt syndication agreements. The Insurance Services Office (ISO) publishes standard form policies that enable meaningful cross-firm actuarial research and analysis. Even venture capitalists have the National Venture Capital Association (NVCA), which published standard venture capital financing documents. In the construction industry, associations of contractors and professionals formed ConsensusDocs as an alternative to the established contract forms published by the American Institute of Architects (AIA), which they thought unfairly privileged architects. These and countless other industry groups have come together to pool effort and encourage competition among service providers.
 
-The Unix and startup stories diverge here. Startup legal doesn't require cleanroom rewriting to avoid a licensing issue. It doesn't need a port to a newer, cheaper, more universal platform. The community awaits an implementation that belongs to the community as a whole, rather than to any particular player, that is open, general, and adaptable enough for wide application.
+There isn't any group turning out startup legal documents in the interests of startup companies. There ought to be. In its absence, the community endures a dizzying array of competing, specialized legal sets that function to lure and lock new companies to one or another service provider. The answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startup people, for startup people.
 
-Fundamentally, it's about process. A firm can standardize on documents that grow out of and mirror its own collaborative infrastructure and clientele. So can an accelerator. The tendency within such an environment is to optimize. The value of that optimization is real, but specializes the product to the organization. Underlying assumptions may not hold elsewhere, and may in fact work against inter-firm, inter-company adoption. In other words, against standardization.
+## Ironsides
 
-The only precedent for that kind of standardization I'm aware of comes from industry groups. Finance has [an industry group that publishes standard forms](http://www.isda.org/). Insurance has [an industry group that publishes standard forms](http://iso.com). Even venture capitalists have [an industry group that publishes forms](http://nvca.org), though the law firms don't necessarily play along. 
+We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
 
-There isn't a group representing the interests of startup companies. There ought to be. In its absence, what we have is competing, specialized implementations designed to lure new companies to one or another vendor of follow-on services, accountancy style. The answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startups, for startups. When the construction industry got tired of the standard forms from the [architects' industry group](http://aia.org), they [started their own initiative](http://consensusdocs.org). Startups can do the same.
+1. Document corporations created with Ironsides are compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions.
+2. Rely on no particular vendor, technology, or mode of legal practice for preparation or signature.
+3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
+4. Welcome and incorporate contributions from companies, attorneys, and other professionals that serve startup companies' interests.
+
+The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. Existing work has manifested the project goals in a few ways that we find exciting:
+
+- Ironsides documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
