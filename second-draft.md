@@ -55,20 +55,19 @@ There isn't any group turning out startup legal documents in the interests of st
 
 # What We Have
 
-The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has sounded in a few strong themes:
+The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. A few themes have come up over and over again in that work, and led to a few practical choices:
 
-1. Contributors have stressed that documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
-2. The documents are developed as plain text files, using open source software to create copies in other formats, as for Microsoft Word.
-3. Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
-4. All work thus far is made available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
-5. Contributors have drafted processes for receiving proposals in the form of "redlines" (traditional legal markups) by e-mail and even postal mail, including anonymous proposals.
+1. Contributors have stressed that documents should be easy to read and improve. That means documents should be consistently organized and phrased, as much as possible, in everyday English.
+2. Contributors believe software development is way ahead of legal on tools for creating documents collaboratively, rather than competitively. The contributors are developing Ironclad as plain text files, using Git, GitHub, and open source software to create copies in other formats, as for Microsoft Word.
+3. Contributors believe work on Ironsides will be most valuable if it's utterly free of copyright-related uncertainty. That means making it available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), a professionally drafted public domain dedication with a fallback permissive license grant.
+4. Contributors believe every possible barrier between the project and valuable feedback should be removed. That means administering processes for making proposals in the form of traditional legal markups, called "redlines", by e-mail or even postal mail, and supporting anonymous contributions.
 
 # Who's Involved
 
-Ironsides' beginnings (and cool name) are the work of two individuals:
+Ironsides' beginnings (and cool name) are the work of two individuals.
 
-Jason Boehmig is founder and CEO of Ironclad, Inc., a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and spearheaded the public release of the free Series Seed financing documents.
+Jason Boehmig is founder and CEO of [Ironclad, Inc.](https://ironclad.ai), a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and spearheaded the public release of the free [Series Seed equity financing documents](https://github.com/seriesseed/equity).
 
-Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own law practice, Kyle also practiced business law in Silicon Valley, and before that built web applications and instructional multimedia for a decade in Austin, Texas and Moscow, Russia.
+Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own [law practice](https://kemitchell.com), Kyle also practiced business law in Silicon Valley.
 
 Kyle maintains and contributes to _Ironsides_ with the generous support of Ironclad.
