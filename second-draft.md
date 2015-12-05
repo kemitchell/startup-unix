@@ -39,9 +39,9 @@ And they've enabled some meaningful technology work. The Orrick set, for example
 
 # Over the Wall
 
-The Law Firm Standard Distributions are fundamentally read-only. Each firm has its own internal revision process, and those processes are time-intensive and expensive. Their output alone is tremendously valuable, but there's no clear channel for outside feedback or interaction, and no good incentive for it to begin with. To land a patch upstream to the law firm, you go to work for the law firm and take it up to the committee or partner who tends the templates.
+The Law Firm Standard Distributions are fundamentally read-only. Each firm has its own internal revision process, and those processes are time-intensive and expensive. Their output alone is tremendously valuable, but there's no clear channel for outside feedback or interaction, and no good incentive for it. To land a patch upstream to the law firm, you go to work for the law firm.
 
-Of course, you're free to "fork" your own variant of a publicly released set. What happens next? Either you revisit each of your changes every time the firm makes a new release, or you give up and go your own way. The proliferation of "house" form sets at law firms may come down to lawyers carrying their old "house" set with them as they changed law firms. Even within firms that have standard form sets, lawyers are known to keep private variants for their own work.
+Of course, you're free to "fork" your own variant of a publicly released set. What happens next? Either you revisit each of your changes every time the firm makes a new release, or you give up and go your own way. The proliferation of "house" form sets at law firms may come down to lawyers carrying their old firm's set with them as they changed law firms. Even within firms that have standard form sets, lawyers are known to keep templates with pet changes for their own work.
 
 This kind of diversification doesn't effectively distribute meaningful improvements to startups. It doesn't rapidly distribute fixes to problems, either. It definitely doesn't reduce the burden on those who review startup legal documents, such as for investor due diligence. It basically functions to keep effort as little consolidated as possible.
 
