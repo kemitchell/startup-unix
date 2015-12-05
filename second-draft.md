@@ -29,13 +29,13 @@ Conversely, if a firm's lawyers still close documents on paper, its forms will b
 
 # The Law Firm Standard Distribution
 
-It's not quite as bad as that. Fortunately, startup legal has had its BSD moment.
+It's not quite so bad as that. Fortunately, startup legal has had its BSD moment.
 
 A number of very fine law firms now release snapshots of at least part of their in-house forms on the Internet. As far as I know, Orrick blazed the trail, followed eventually by Cooley, Gunderson, Perkins Coie, and probably others.
 
-Anyone can download the latest Orrick/Cooley/Gunderson/PK Distribution. It may not be easy to use, complete, or up-to-date, but the community is better off for the information. It's good education for budding businesspeople. It's invaluable for up-and-coming lawyers. And if you're familiar with the forms---many startup lawyers can "recognize" a law firm in the style of a company's founding docs---it can even save you time reviewing for meaningful changes. As a practicing attorney, I've no doubt the process of preparing the forms for publication benefited the forms and the firms' own clients, too.
+Anyone can download the latest Orrick/Cooley/Gunderson/PK Distribution. It may not be easy to use, complete, or up-to-date, but the community is better off for the information. It's good education for budding businesspeople. It's invaluable for up-and-coming lawyers. And if you're familiar with the forms---many startup lawyers can "recognize" a law firm in the style of a company's founding docs---it can even save you time reviewing for meaningful changes. The process of preparing the forms for publication doubtless benefited the publishing firms' lawyers and clients, too.
 
-And they've seeded some meaningful innovation. The Orrick set, for example, begat Clerky, which in turn begat a bevy of startups. Gunderson's release of its documents on Docracy was a boon. Legal technology startups and open-source projects love to demo with startup documents, because they're just so easy to get.
+And they've enabled some meaningful technology work. The Orrick set, for example, begat Clerky, which in turn begat a bevy of startups. Gunderson's release of its documents on Docracy was a boon. Legal technology startups and open-source projects love to demo with startup documents. They're easy to get, and a bit more fun than the average legal form.
 
 # Over the Wall
 
