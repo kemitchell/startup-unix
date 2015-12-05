@@ -1,6 +1,11 @@
 # Startup Legal is Unix All Over Again
 
-Startup legal structure is stuck in the Unix era, waiting for its "open" moment.
+Startup legal structure is stuck in the Unix era, waiting for its "open" moment. We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
+
+1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions and relationships.
+2. Favor no particular vendor, technology, or mode of legal practice for preparation or signature.
+3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
+4. Welcome and incorporate contributions from companies, attorneys, and other professionals, with startup companies' interests in mind.
 
 Every startup company has to run boring "business applications". Employees want stock options with standard tax benefits. Investors want a capital structure they can model. The guy in the tie at the bank won't give you a bank account without the right magic paper. Boring.
 
@@ -46,14 +51,7 @@ Good news: there's precedent. In finance, the International Swaps and Derivative
 
 There isn't any group turning out startup legal documents in the interests of startup companies. There ought to be. In its absence, the community endures a dizzying array of competing, specialized legal sets that function to lure and lock new companies to one or another service provider. The answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startup people, for startup people.
 
-## Ironsides
-
-We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
-
-1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions and relationships.
-2. Favor no particular vendor, technology, or mode of legal practice for preparation or signature.
-3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
-4. Welcome and incorporate contributions from companies, attorneys, and other professionals, with startup companies' interests in mind.
+## What We Have
 
 The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has sounded in a few strong themes:
 
@@ -62,6 +60,8 @@ The purpose of Ironsides is to learn from and serve the startup community, not t
 3. Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
 4. All work thus far is made available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
 5. Contributors have drafted processes for receiving proposals in the form of "redlines" (traditional legal markups) by e-mail and even postal mail, including anonymous proposals.
+
+## Who's Involved
 
 Ironsides' beginnings (and cool name) are the work of two individuals:
 
