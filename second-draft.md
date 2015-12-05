@@ -55,7 +55,7 @@ We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), 
 3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
 4. Welcome and incorporate contributions from companies, attorneys, and other professionals, with startup companies' interests in mind.
 
-The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has head in a few interesting directions:
+The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has sounded in a few strong themes:
 
 1. Contributors have stressed that documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
 2. The documents are developed as plain text computer files, using open source software to create copies in other formats, like Microsoft Word.
