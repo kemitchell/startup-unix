@@ -43,7 +43,7 @@ The Law Firm Standard Distributions are fundamentally read-only. Each firm has i
 
 Of course, you're free to "fork" your own variant of a publicly released set. What happens next? Either you revisit each of your changes every time the firm makes a new release, or you give up and go your own way. The proliferation of "house" form sets at law firms may come down to lawyers carrying their old firm's set with them as they changed law firms. Even within firms that have standard form sets, lawyers are known to keep templates with pet changes for their own work.
 
-This kind of diversification doesn't effectively distribute meaningful improvements to startups. It doesn't rapidly distribute fixes to problems, either. It definitely doesn't reduce the burden on those who review startup legal documents, such as for investor due diligence. It basically functions to keep effort as little consolidated as possible.
+This kind of diversification doesn't effectively distribute meaningful improvements to startups. It doesn't rapidly distribute fixes to problems, like the infamous Benchmark gap, either. It definitely doesn't reduce the burden on those who review startup legal documents. It produces a lot of variation, but not necessarily much diversity, and doesn't do anything to focus effort.
 
 # Open Process
 
