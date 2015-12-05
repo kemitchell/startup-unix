@@ -57,6 +57,8 @@ We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), 
 
 The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has head in a few interesting directions:
 
-- Contributors have stressed that documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
-- The documents are developed as plain text computer files, using open source software to create copies in other formats, like Microsoft Word.
-- Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
+1. Contributors have stressed that documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
+2. The documents are developed as plain text computer files, using open source software to create copies in other formats, like Microsoft Word.
+3. Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
+4. All work thus far is made available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
+5. Contributors have drafted processes for receiving proposals in the form of "redlines" (traditional legal markups) by e-mail and even postal mail, including anonymous proposals.
