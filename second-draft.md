@@ -50,11 +50,13 @@ There isn't any group turning out startup legal documents in the interests of st
 
 We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project's goals:
 
-1. Document corporations created with Ironsides are compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions.
-2. Rely on no particular vendor, technology, or mode of legal practice for preparation or signature.
+1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other "mission critical" transactions.
+2. Favor no particular vendor, technology, or mode of legal practice for preparation or signature.
 3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
 4. Welcome and incorporate contributions from companies, attorneys, and other professionals that serve startup companies' interests.
 
-The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. Existing work has manifested the project goals in a few ways that we find exciting:
+The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. That existing work has head in a few interesting directions:
 
-- Ironsides documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
+- Contributors have stressed that documents should be consistently organized and phrased, as much as possible, in plain language that non-lawyer readers can understand.
+- The documents are developed as plain text computer files, using open source software to create copies in other formats, like Microsoft Word.
+- Contributors have taken to using GitHub, and especially its Issues and Pull Requests systems, for collaboration and planning.
