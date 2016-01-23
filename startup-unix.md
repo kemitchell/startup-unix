@@ -66,7 +66,7 @@ The purpose of Ironsides is to learn from and serve the startup community, not t
 
 Ironsides’ beginnings (and cool name) are the work of two individuals.
 
-Jason Boehmig is founder and CEO of [Ironclad, Inc.](https://ironclad.ai), a legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and maintained the [Series Seed equity financing documents](https://github.com/seriesseed/equity). Jason is @jboehmig on [GitHub](https://github.com/jboehmig) & [Twitter](https://twitter.com/jboehmig).
+Jason Boehmig is founder and CEO of [Ironclad, Inc.](https://ironclad.ai), a San Francisco-based legal document automation company that understands open-source software. Prior to founding Ironclad, Jason practiced business law in Silicon Valley and maintained the [Series Seed equity financing documents](https://github.com/seriesseed/equity). Jason is @jboehmig on [GitHub](https://github.com/jboehmig) & [Twitter](https://twitter.com/jboehmig).
 
 Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own [law practice](https://kemitchell.com) in Oakland, Kyle also practiced business law in Silicon Valley. Kyle is @kemitchell on [GitHub](https://github.com/kemitchell) & [Twitter](https://twitter.com/kemitchell).
 
