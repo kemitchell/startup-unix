@@ -1,4 +1,4 @@
-Startup legal structure is stuck in the Unix era, waiting for its “open” moment. We are happy to announce [_Ironsides_](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project’s goals:
+Startup legal structure is stuck in the Unix era, waiting for its “open” moment. We are happy to announce [Ironsides](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project’s goals:
 
 1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other “mission critical” transactions and relationships.
 2. Favor no particular vendor, technology, lawyer, or law firm for preparation, handling, or signature.
@@ -70,4 +70,4 @@ Jason Boehmig is founder and CEO of [Ironclad, Inc.](https://ironclad.ai), a leg
 
 Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own [law practice](https://kemitchell.com), Kyle also practiced business law in Silicon Valley. Kyle is @kemitchell on [GitHub](https://github.com/kemitchell) & [Twitter](https://twitter.com/kemitchell).
 
-Kyle facilitates and contributes to _Ironsides_ with the generous support of Ironclad.
+Kyle facilitates and contributes to Ironsides with the generous support of Ironclad.
