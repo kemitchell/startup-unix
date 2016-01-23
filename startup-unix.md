@@ -59,7 +59,7 @@ The purpose of Ironsides is to learn from and serve the startup community, not t
 
 1. Contributors have stressed that documents should be easy to read and improve. That means documents should be consistently organized and phrased, as much as possible, in everyday English.
 2. Contributors believe software development is way ahead of legal on tools for creating documents collaboratively, rather than competitively. The contributors are developing Ironclad as plain text files, using Git, GitHub, and open source software to create copies in other formats, as for Microsoft Word.
-3. Contributors believe work on Ironsides will be most valuable if it's utterly free of copyright-related uncertainty. That means making it available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), a professionally drafted public domain dedication with a fallback permissive license grant.
+3. Contributors believe work on Ironsides will be most valuable if it's utterly free of copyright-related uncertainty. That means making it available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), a professionally drafted public domain dedication with a fallback permissive license.
 4. Contributors believe every possible barrier between the project and valuable feedback should be removed. That means administering processes for making proposals in the form of traditional legal markups, called "redlines", by e-mail or even postal mail, and supporting anonymous contributions.
 
 # Who's Involved
