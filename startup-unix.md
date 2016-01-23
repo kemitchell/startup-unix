@@ -19,7 +19,7 @@ Vendors care. They probably sold Accounting the mainframe, and the mainframe alm
 
 When you go to a startup-capable law firm and get yourself a corporation, you end up with the same basic Delaware corporation as everyone else. It's commodity legal hardware. But your Delaware corporation comes preloaded with the law firm's proprietary operating system, in the form of articles of incorporation, bylaws, basic agreements, and other documents. Those docs pick the ground rules and set the board for the business game that follows.
 
-The lawyers at the firm know their "flavor" of startup legal down cold. The 409A valuation firms they refer know where to look for the parts they need. The form financing documents they have ready to go are built to run on them. There may even be some document preparation automation going on back office.
+The lawyers at the firm know their "flavor" of startup legal down cold. The 409A valuation firms they refer know where to look for the parts they need. The form financing documents they have ready to go are built to run on them. There may even be some document preparation automation going on back-office.
 
 A good form set produces a legally compliant, business-ready corporation every time. That is the vast majority of its value. But that isn't to say all form sets are created equal. They reflect the institutions that make them.
 
