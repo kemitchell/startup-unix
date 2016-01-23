@@ -9,7 +9,7 @@ Why?
 
 # Startup Legal is Unix All Over Again
 
-Every startup company has to run boring "business applications". Employees want stock options with standard tax benefits. Investors want a capital structure they can model. The guy in the tie at the bank won't give you a bank account without the right magic paper. Boring.
+Every startup company has to run boring "business applications". Employees want stock options with standard tax benefits. Investors want a capital structure they can model. The guy in the tie at the bank won't give you an account without the right magic paper. Boring.
 
 There are probably dozens of prepackaged legal form sets for starting and "booting up" a Silicon Valley style startup company. All of them are compatible with these and other basic "business applications". The set you're running probably reflects who is selling you other kinds of products and services.
 
