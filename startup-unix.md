@@ -25,7 +25,7 @@ A good form set produces a legally compliant, business-ready corporation every t
 
 If a firm has particular strength in, say, tax, its startup forms may develop more nuanced tax features. If the firm forms a lot of startups for foreign founders, its forms may better address immigration needs. If the firm has an active form revision committee, or a particularly dedicated "startup" partner, updates for changes in the law may land quicker.
 
-Conversely, if a firm's lawyers still close documents on paper, its forms will be drafted to work with that process. If the partners like whereins and whereases, their forms will be littered with them. If the firm cannot or does not devote significant time to revision and rewriting, the forms will grow tattered with ad hoc edits, tacked-on provisos, and other tool marks. If a firm's clients are uniformly alike in some way, say they mostly come through a particular accelerator, the forms may become specialized to that kind of client.
+Conversely, if a firm's lawyers still close documents on paper, its forms will be primed for that process. If the partners like whereins and whereases, their forms will be littered with them. If the firm cannot or does not devote significant time to revision and rewriting, the forms will grow tattered with ad hoc edits, tacked-on provisos, and other tool marks. If a firm's clients are uniformly alike in some way, say they mostly come through a particular accelerator, the forms may become specialized to that kind of client.
 
 # The Law Firm Standard Distribution
 
