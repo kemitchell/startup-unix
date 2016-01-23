@@ -1,4 +1,4 @@
-Startup legal structure is stuck in the Unix era, waiting for its “open” moment. We are happy to announce [Ironsides](https://github.com/ironsides/ironsides), a project for a truly open startup legal operating system. The project’s goals:
+Startup legal structure is stuck in the Unix era, waiting for its “open” moment. We are happy to announce [Ironsides](https://ironsides.github.io/), a project for a truly open startup legal operating system. The project’s goals:
 
 1. Document corporations compatible with standard Silicon Valley style equity compensation, financing, and other “mission critical” transactions and relationships.
 2. Favor no particular vendor, technology, lawyer, or law firm for preparation, handling, or signature.
