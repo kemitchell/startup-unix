@@ -55,7 +55,7 @@ There isn’t any group turning out startup legal documents in the interests of 
 
 # What We Have
 
-The purpose of Ironsides is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already done quite a bit of work preparing a strong starting point for the project. A few themes have come up over and over again in that work, and led to a few practical choices:
+The Ironsides project's purpose is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already worked hard and prepared a strong starting point for the project. A few themes have come up over and over again in that work, and led to a few practical choices:
 
 1. Contributors have stressed that documents should be easy to read and improve. That means documents should be consistently organized and phrased, as much as possible, in everyday English.
 2. Contributors believe software development is way ahead of legal on tools for creating documents collaboratively, rather than competitively. The contributors are developing Ironclad as plain text files, using [Git](https://git-scm.com), [GitHub](https://github.com/ironsides/ironsides), [Travis CI](https://travis-ci.org/Ironsides/ironsides/), and open source software to create copies in other formats, as for Microsoft Word.
