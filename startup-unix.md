@@ -70,4 +70,4 @@ Jason Boehmig is founder and CEO of [Ironclad, Inc.](https://ironclad.ai), a San
 
 Kyle Mitchell is a business lawyer and open-source programmer. Prior to starting his own [law practice](https://kemitchell.com) in Oakland, Kyle also practiced business law in Silicon Valley. Kyle is @kemitchell on [GitHub](https://github.com/kemitchell) & [Twitter](https://twitter.com/kemitchell). Kyle facilitates and contributes to Ironsides with the generous support of Ironclad.
 
-Kyle and Jason would like to thank Ansel Halliburton of [Kronenberger Rosenfeld](https://www.krinternetlaw.com/attorneys/ansel-halliburton-profile) for advance feedback and suggestions.
+Kyle and Jason would like to thank Ansel Halliburton of [Kronenberger Rosenfeld](https://www.krinternetlaw.com/attorneys/ansel-halliburton-profile), also a startup lawyer and open-source programmer, for advance feedback and suggestions. Ansel is @anseljh on [Github](https://github.com/anseljh/) & [Twitter](https://twitter.com/anseljh).
